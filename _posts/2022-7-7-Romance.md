@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 忙碌老板的罗曼史
-date: 2022-7-7
-Author: Alchimist
-tags: [曹老板],[辽曹]
-toc:true
+date: 2022-07-07
+author: Alchimist
+tags: [辽曹, 曹老板]
+comments: true
+toc: true
+pinned: true
 ---
 <h1>忙碌老板的罗曼史</h1>
 <p>欧·亨利《忙碌经理人的浪漫史》魔改</p>
