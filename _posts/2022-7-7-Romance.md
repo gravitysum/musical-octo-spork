@@ -8,7 +8,6 @@ comments: true
 toc: true
 pinned: true
 ---
-<h1>忙碌老板的罗曼史</h1>
 <p>欧·亨利《忙碌经理人的浪漫史》魔改</p>
 <h2>一</h2>
 <p>这是张文远第四次到他面前试探。</p>
