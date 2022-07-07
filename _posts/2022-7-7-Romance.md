@@ -1,9 +1,9 @@
 ---
-layout:post
-title:忙碌老板的罗曼史
-date：2022-7-7
-Author：Alchimist
-tags:[曹老板],[辽曹]
+layout: post
+title: 忙碌老板的罗曼史
+date： 2022-7-7
+Author： Alchimist
+tags: [曹老板],[辽曹]
 toc:true
 ---
 <h1>忙碌老板的罗曼史</h1>
